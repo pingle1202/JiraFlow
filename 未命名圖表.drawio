@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-24T05:27:51.410Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="LTHgwv_o4DDej6jA-rn-" version="12.1.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-24T05:28:41.728Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="e3t-jVLTZXERD3x7t46M" version="12.1.4" type="github" pages="1">
   <diagram name="Page-1" id="2c4490ee-f0b8-94ab-5012-d5dc3445f7a3">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -52,22 +52,22 @@
         <mxCell id="7a8b956e7d50b54d-210" value="" style="align=left;strokeColor=#CCCCCC;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="499" width="120" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="7a8b956e7d50b54d-353" value="Member Kiosk 硬體委外開發" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="7a8b956e7d50b54d-353" value="硬體委外開發" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="200" y="459" width="380" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="7a8b956e7d50b54d-354" value="Member Kiosk 軟體功能開發" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="7a8b956e7d50b54d-354" value="軟體功能開發" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="499" width="560" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-355" value="安規送驗" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="720" y="519" width="210" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="7a8b956e7d50b54d-358" value="Member Kiosk 小批量試產" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="7a8b956e7d50b54d-358" value="小批量4台試產" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="580" y="479" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="c4RQWpJA4Gw6nRBEv-Ae-6" value="2020/05" style="fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1;fontColor=#000000;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="439" width="70" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="7a8b956e7d50b54d-357" value="2020 G2E Asia" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="7a8b956e7d50b54d-357" value="G2E Asia" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1000" y="559" width="70" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-356" value="GLI 送驗" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;fontStyle=1" parent="1" vertex="1">
