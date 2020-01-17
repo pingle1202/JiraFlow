@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2019-10-29T11:34:36.169Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="LwsuO7EaaonIIYAc_nnJ" version="12.1.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2020-01-17T05:31:18.232Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="mjMm4952wbFzI3ddgu6A" version="12.5.5" type="github">
   <diagram name="Page-1" id="2c4490ee-f0b8-94ab-5012-d5dc3445f7a3">
-    <mxGraphModel dx="1186" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;"/>
         <mxCell id="1" style=";html=1;" parent="0"/>
-        <mxCell id="CtbKfROzsBU-93_lkHjz-2" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="CtbKfROzsBU-93_lkHjz-2" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="110" y="200" width="920" height="211" as="geometry"/>
         </mxCell>
         <mxCell id="c4RQWpJA4Gw6nRBEv-Ae-34" value="" style="group;rounded=0;strokeColor=none;" parent="CtbKfROzsBU-93_lkHjz-2" vertex="1" connectable="0">
@@ -56,7 +56,7 @@
           <mxGeometry x="566.1538461538462" y="164.37016574585635" width="212.3076923076923" height="23.314917127071823" as="geometry"/>
         </mxCell>
         <mxCell id="7a8b956e7d50b54d-358" value="小批量8台試產" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;fontStyle=1;shadow=0;rounded=1;" parent="CtbKfROzsBU-93_lkHjz-2" vertex="1">
-          <mxGeometry x="424.6153846153845" y="69.9447513812155" width="141.53846153846155" height="23.314917127071823" as="geometry"/>
+          <mxGeometry x="424.62" y="69.94" width="225.38" height="23.31" as="geometry"/>
         </mxCell>
         <mxCell id="c4RQWpJA4Gw6nRBEv-Ae-6" value="2020/05" style="fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1;fontColor=#000000;fontStyle=0;html=1;shadow=0;rounded=1;" parent="CtbKfROzsBU-93_lkHjz-2" vertex="1">
           <mxGeometry x="849.2307692307692" width="70.76923076923077" height="23.314917127071823" as="geometry"/>
@@ -71,10 +71,10 @@
           <mxGeometry x="333.6263736263736" y="46.629834254143645" width="90.98901098901098" height="23.314917127071823" as="geometry"/>
         </mxCell>
         <mxCell id="c4RQWpJA4Gw6nRBEv-Ae-32" value="Jumbo Club 驗證" style="align=center;strokeColor=#82b366;html=1;fillColor=#d5e8d4;fontStyle=1;shadow=0;rounded=1;" parent="CtbKfROzsBU-93_lkHjz-2" vertex="1">
-          <mxGeometry x="566.1538461538462" y="141.0552486187845" width="212.3076923076923" height="23.314917127071823" as="geometry"/>
+          <mxGeometry x="566.15" y="141.06" width="143.85" height="23.31" as="geometry"/>
         </mxCell>
         <mxCell id="c4RQWpJA4Gw6nRBEv-Ae-33" value="軟體ECR進測" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;fontStyle=1;shadow=0;rounded=1;" parent="CtbKfROzsBU-93_lkHjz-2" vertex="1">
-          <mxGeometry x="424.6153846153845" y="117.74033149171271" width="141.53846153846155" height="23.314917127071823" as="geometry"/>
+          <mxGeometry x="424.62" y="117.74" width="225.38" height="23.31" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
