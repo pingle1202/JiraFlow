@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-07T07:46:27.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="R60CLI3j_ynO2pX4SADl" version="13.1.12" type="github">
+<mxfile host="www.draw.io" modified="2020-07-07T07:56:18.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="dogv7K6va0vPb_35F95H" version="13.1.12" type="github">
   <diagram id="Qlx0tBwuZpolExqOaOtU" name="第1頁">
     <mxGraphModel dx="1678" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="800" math="0" shadow="0">
       <root>
@@ -10,14 +10,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="435" width="500" height="150" as="geometry" />
+          <mxGeometry x="70" y="416" width="500" height="150" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aokBudjA968yanVyvqhT-1" target="aokBudjA968yanVyvqhT-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="547" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aokBudjA968yanVyvqhT-1" value="國外二手機台市場" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aokBudjA968yanVyvqhT-1" value="國外二手機台市場" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-52" value="加裝GI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aokBudjA968yanVyvqhT-3" target="aokBudjA968yanVyvqhT-13">
@@ -28,32 +28,33 @@
             <mxPoint x="100" y="340" as="targetPoint" />
             <Array as="points">
               <mxPoint x="50" y="230" />
-              <mxPoint x="50" y="698" />
+              <mxPoint x="50" y="680" />
+              <mxPoint x="70" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aokBudjA968yanVyvqhT-3" value="機台代理商" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="200" width="30" height="60" as="geometry" />
+        <mxCell id="aokBudjA968yanVyvqhT-3" value="機台代理商" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="85" y="208" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aokBudjA968yanVyvqhT-17" value="店家1" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="465" width="30" height="60" as="geometry" />
+        <mxCell id="aokBudjA968yanVyvqhT-17" value="店家1" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="85" y="446" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aokBudjA968yanVyvqhT-20" value="&lt;h1&gt;角色&lt;/h1&gt;&lt;p&gt;&lt;ol&gt;&lt;li&gt;機台代理商&lt;/li&gt;&lt;li&gt;Gama系統商&lt;/li&gt;&lt;li&gt;店家&lt;/li&gt;&lt;/ol&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="30" width="190" height="120" as="geometry" />
+        <mxCell id="aokBudjA968yanVyvqhT-20" value="&lt;h1&gt;角色&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;機台代理商&lt;/li&gt;&lt;li&gt;Gama系統商&lt;/li&gt;&lt;li&gt;各店經營者&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="194" y="10" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-21" value="機台1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="465" width="60" height="80" as="geometry" />
+          <mxGeometry x="190" y="446" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-22" value="機台2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="465" width="60" height="80" as="geometry" />
+          <mxGeometry x="280" y="446" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-23" value="機台N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="465" width="60" height="80" as="geometry" />
+          <mxGeometry x="450" y="446" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-25" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aokBudjA968yanVyvqhT-22" target="aokBudjA968yanVyvqhT-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="545" as="sourcePoint" />
-            <mxPoint x="440" y="485" as="targetPoint" />
+            <mxPoint x="360" y="526" as="sourcePoint" />
+            <mxPoint x="440" y="466" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aokBudjA968yanVyvqhT-26" target="aokBudjA968yanVyvqhT-42">
@@ -62,48 +63,48 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="623" width="500" height="150" as="geometry" />
+          <mxGeometry x="70" y="598" width="500" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="aokBudjA968yanVyvqhT-27" value="店家N" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="653" width="30" height="60" as="geometry" />
+        <mxCell id="aokBudjA968yanVyvqhT-27" value="店家N" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="85" y="628" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-28" value="機台1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="653" width="60" height="80" as="geometry" />
+          <mxGeometry x="190" y="628" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-29" value="機台2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="653" width="60" height="80" as="geometry" />
+          <mxGeometry x="280" y="628" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-30" value="機台N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="653" width="60" height="80" as="geometry" />
+          <mxGeometry x="450" y="628" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-31" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aokBudjA968yanVyvqhT-29" target="aokBudjA968yanVyvqhT-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="733" as="sourcePoint" />
-            <mxPoint x="440" y="673" as="targetPoint" />
+            <mxPoint x="360" y="708" as="sourcePoint" />
+            <mxPoint x="440" y="648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-34" value="" style="endArrow=none;dashed=1;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aokBudjA968yanVyvqhT-26" target="aokBudjA968yanVyvqhT-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="563" as="sourcePoint" />
-            <mxPoint x="110" y="583" as="targetPoint" />
+            <mxPoint x="520" y="544" as="sourcePoint" />
+            <mxPoint x="110" y="564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aokBudjA968yanVyvqhT-41" value="&lt;h1&gt;商業模式&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;加裝GI跟誰收費？&lt;/li&gt;&lt;li&gt;機台安裝費？&lt;/li&gt;&lt;li&gt;機台維護費？&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="30" width="190" height="120" as="geometry" />
+        <mxCell id="aokBudjA968yanVyvqhT-41" value="&lt;h1&gt;商業模式&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;加裝GI跟誰收費？&lt;/li&gt;&lt;li&gt;機台初始安裝費？&lt;/li&gt;&lt;li&gt;機台維護費？&lt;/li&gt;&lt;li&gt;依據模組收費？僅帳務功能？神秘彩功能？票進票出功能？&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="10" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aokBudjA968yanVyvqhT-42" target="aokBudjA968yanVyvqhT-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aokBudjA968yanVyvqhT-42" value="Gama System&lt;br&gt;(GCP)" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="aokBudjA968yanVyvqhT-42" value="Gama System&lt;br&gt;(GCP)" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="700" y="180" width="110" height="160" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-47" value="Report System" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" vertex="1" parent="1">
-          <mxGeometry x="480" y="195" width="150" height="130" as="geometry" />
+          <mxGeometry x="380" y="162.5" width="250" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="aokBudjA968yanVyvqhT-13" value="GAMA" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="194" y="200" width="30" height="60" as="geometry" />
+        <mxCell id="aokBudjA968yanVyvqhT-13" value="GAMA" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="208" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-55" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" target="aokBudjA968yanVyvqhT-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -111,9 +112,21 @@
             <mxPoint x="570" y="410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="50" y="230" />
-              <mxPoint x="50" y="510" />
+              <mxPoint x="50" y="491" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aokBudjA968yanVyvqhT-57" value="機台代理商" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="414" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aokBudjA968yanVyvqhT-58" value="GAMA" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aokBudjA968yanVyvqhT-59" value="各店家" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aokBudjA968yanVyvqhT-60" value="&lt;h1&gt;備註與待辦事項&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;僅支援有Sas的機台&lt;/li&gt;&lt;li&gt;確認GI成本？&lt;/li&gt;&lt;li&gt;對方會再提供最新的收費方式？&lt;/li&gt;&lt;li&gt;Gama內部評估單店部署最低成本？&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="10" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
