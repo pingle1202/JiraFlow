@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-07T07:56:18.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="dogv7K6va0vPb_35F95H" version="13.1.12" type="github">
+<mxfile host="www.draw.io" modified="2020-07-08T01:36:07.122Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="hSRBiG7WTYgAtBG27Zp0" version="13.1.12" type="github">
   <diagram id="Qlx0tBwuZpolExqOaOtU" name="第1頁">
     <mxGraphModel dx="1678" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="800" math="0" shadow="0">
       <root>
@@ -117,13 +117,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-57" value="機台代理商" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="414" y="210" width="30" height="60" as="geometry" />
+          <mxGeometry x="425" y="200" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-58" value="GAMA" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="490" y="180" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-59" value="各店家" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="570" y="210" width="30" height="60" as="geometry" />
+          <mxGeometry x="550" y="200" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-60" value="&lt;h1&gt;備註與待辦事項&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;僅支援有Sas的機台&lt;/li&gt;&lt;li&gt;確認GI成本？&lt;/li&gt;&lt;li&gt;對方會再提供最新的收費方式？&lt;/li&gt;&lt;li&gt;Gama內部評估單店部署最低成本？&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="10" width="240" height="120" as="geometry" />
