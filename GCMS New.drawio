@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-08T03:16:15.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="umwM3tWEh4yFNlTRihOj" version="13.1.12" type="github">
+<mxfile host="www.draw.io" modified="2020-07-08T03:22:27.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="TIA5E6S7tEBdc-5ZpslE" version="13.1.12" type="github">
   <diagram id="Qlx0tBwuZpolExqOaOtU" name="第1頁">
     <mxGraphModel dx="1678" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="800" math="0" shadow="0">
       <root>
@@ -129,8 +129,8 @@
         <mxCell id="aokBudjA968yanVyvqhT-59" value="各店家" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="550" y="200" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aokBudjA968yanVyvqhT-60" value="&lt;h1&gt;備註與待辦事項&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;僅支援有Sas的機台&lt;/li&gt;&lt;li&gt;確認GI成本？&lt;/li&gt;&lt;li&gt;對方會再提供最新的收費方式？&lt;/li&gt;&lt;li&gt;Gama內部評估單店部署最低成本？&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="400" width="260" height="130" as="geometry" />
+        <mxCell id="aokBudjA968yanVyvqhT-60" value="&lt;h1&gt;備註與待辦事項&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;僅支援有Sas的機台&lt;/li&gt;&lt;li&gt;對方會再提供最新的收費方式?&lt;/li&gt;&lt;li&gt;Gama內部評估單店部署最低成本?&lt;/li&gt;&lt;li&gt;Gama內部評估可能的收費方案?&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="446" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="aokBudjA968yanVyvqhT-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="aokBudjA968yanVyvqhT-74" target="aokBudjA968yanVyvqhT-42">
           <mxGeometry relative="1" as="geometry">
@@ -160,8 +160,8 @@
         <mxCell id="aokBudjA968yanVyvqhT-77" value="Broadcast Server" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
           <mxGeometry x="520" y="630" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aokBudjA968yanVyvqhT-78" value="&lt;h1&gt;Gama 額外成本（單店）&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;GI = 220美金*機台數&lt;/li&gt;&lt;li&gt;機台網路模組 = ?*機台數&lt;/li&gt;&lt;li&gt;Broadcast Server IPC = 1&lt;/li&gt;&lt;li&gt;Peplink = 1&lt;/li&gt;&lt;li&gt;GCP = 1&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="237.5" width="310" height="120" as="geometry" />
+        <mxCell id="aokBudjA968yanVyvqhT-78" value="&lt;h1&gt;Gama 額外成本（單店）&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;GI = 220美金 * 機台數&lt;/li&gt;&lt;li&gt;機台網路模組 = ? * 機台數&lt;/li&gt;&lt;li&gt;Broadcast Server IPC = 1&lt;/li&gt;&lt;li&gt;Peplink = 42000&lt;/li&gt;&lt;li&gt;GCP = 1&lt;/li&gt;&lt;li&gt;Gama System = ?&lt;/li&gt;&lt;li&gt;Cars System = ?&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="237.5" width="310" height="162.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
