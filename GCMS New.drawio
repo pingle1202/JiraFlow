@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-14T08:29:23.589Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="1NKSzONypi-qDLjLRgWu" version="13.4.2" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-07-14T08:29:50.954Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="gbtao4MRMAgv_WGwh7qS" version="13.4.2" type="github" pages="2">
   <diagram id="Qlx0tBwuZpolExqOaOtU" name="第1頁">
     <mxGraphModel dx="1351" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="800" math="0" shadow="0">
       <root>
@@ -333,7 +333,7 @@
         <mxCell id="vLLe2bvbjmA7wxK5sb2R-37" value="Broadcast Server" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;fontSize=16;" vertex="1" parent="wtcg2NtK3fADbBzd51Cr-1">
           <mxGeometry x="505" y="630" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vLLe2bvbjmA7wxK5sb2R-38" value="&lt;h1&gt;GAMA 額外成本（單店）&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol style=&quot;font-size: 16px&quot;&gt;&lt;li&gt;GI = 220美金 * 機台數&lt;/li&gt;&lt;li&gt;機台網路模組 = ? * 機台數&lt;/li&gt;&lt;li&gt;Broadcast Server IPC = 1&lt;/li&gt;&lt;li&gt;Peplink = 42,000 台幣&lt;/li&gt;&lt;li&gt;GCP = DB? CARS Server?&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="wtcg2NtK3fADbBzd51Cr-1">
+        <mxCell id="vLLe2bvbjmA7wxK5sb2R-38" value="&lt;h1&gt;GAMA 額外成本（單店）&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol style=&quot;font-size: 16px&quot;&gt;&lt;li&gt;GI = 220美金 * 機台數&lt;/li&gt;&lt;li&gt;機台網路模組 = ? * 機台數&lt;/li&gt;&lt;li&gt;Broadcast Server IPC = 20,000左右&lt;/li&gt;&lt;li&gt;Peplink = 42,000 台幣&lt;/li&gt;&lt;li&gt;GCP = DB? CARS Server?&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="wtcg2NtK3fADbBzd51Cr-1">
           <mxGeometry x="840" y="237.5" width="530" height="162.5" as="geometry" />
         </mxCell>
         <mxCell id="vLLe2bvbjmA7wxK5sb2R-39" value="" style="endArrow=none;dashed=1;html=1;fontSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="wtcg2NtK3fADbBzd51Cr-1" source="vLLe2bvbjmA7wxK5sb2R-0" target="vLLe2bvbjmA7wxK5sb2R-2">
